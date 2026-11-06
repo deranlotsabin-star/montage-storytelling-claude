@@ -1,0 +1,454 @@
+{
+  "schema_version": 1,
+  "id": "insp-morgan-rize-promesse-7704290788",
+  "kind": "global-editing",
+  "title": "Monologue motivation : face cam + écrans texte beige/orange à mot clé serif",
+  "source": {
+    "url": "https://www.tiktok.com/@morgan_rize/video/7704290788561128736",
+    "local_file": null,
+    "creator": "morgan_rize",
+    "duration_seconds": 83.6,
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "analysis_date": "2026-11-06"
+  },
+  "coverage": {
+    "mode": "full",
+    "reviewed_ranges": [
+      [
+        0,
+        83.6
+      ]
+    ],
+    "audio": "transcript-only",
+    "timing_precision_seconds": 0.5,
+    "limitations": [
+      "Images à 2 i/s, sauf 3 transitions vues image par image (1,4–1,9 s ; 28,9–29,9 s ; 77,0–78,4 s).",
+      "Son mesuré (niveau, spectrogramme) et transcrit, pas écouté : musique et effets sonores non confirmés.",
+      "Polices non identifiées."
+    ]
+  },
+  "evidence": [
+    {
+      "id": "E1",
+      "start_seconds": 0.0,
+      "end_seconds": 2.9,
+      "modality": "visual",
+      "observation": "Sous-titres petits blancs sans-serif gras, centrés vers 85 % de la hauteur, 1 à 4 mots ; mot suivant qui entre flou puis net.",
+      "asset": null
+    },
+    {
+      "id": "E2",
+      "start_seconds": 2.9,
+      "end_seconds": 3.8,
+      "modality": "visual",
+      "observation": "Coupe sèche face cam vers écran beige #F2EBE6 ; 'skippe pas' orange gras, 'cette vidéo' petit, 'scroll pas' ajouté dessous.",
+      "asset": null
+    },
+    {
+      "id": "E3",
+      "start_seconds": 8.0,
+      "end_seconds": 9.0,
+      "modality": "visual",
+      "observation": "Fond dégradé orange #F57221 vers #D03F01 ; phrase blanche petite, mot clé 'au-dessus' serif italique blanc avec halo ; mot suivant flou.",
+      "asset": null
+    },
+    {
+      "id": "E4",
+      "start_seconds": 14.0,
+      "end_seconds": 16.0,
+      "modality": "visual",
+      "observation": "Écran orange, 'problèmes' sans-serif extra-gras blanc, suite petite dessous.",
+      "asset": null
+    },
+    {
+      "id": "E5",
+      "start_seconds": 16.0,
+      "end_seconds": 17.5,
+      "modality": "visual",
+      "observation": "Écran beige, 'finir' serif italique orange très grand.",
+      "asset": null
+    },
+    {
+      "id": "E6",
+      "start_seconds": 16.0,
+      "end_seconds": 26.0,
+      "modality": "visual",
+      "observation": "Plans d'illustration tournés à part (profil au bureau, tête dans les mains) sous la phrase en cours, sous-titres conservés.",
+      "asset": null
+    },
+    {
+      "id": "E7",
+      "start_seconds": 26.2,
+      "end_seconds": 27.6,
+      "modality": "visual",
+      "observation": "Écran beige empilé 'tu décroches' (sans gras orange) puis 'tu abandonnes' (serif italique orange).",
+      "asset": null
+    },
+    {
+      "id": "E8",
+      "start_seconds": 29.4,
+      "end_seconds": 34.0,
+      "modality": "visual",
+      "observation": "Carte blanche arrondie 'Le prochain truc' à gauche, face cam en vignette arrondie à droite, fond beige pointillé ; éléments ajoutés et cochés en orange au moment où ils sont dits.",
+      "asset": null
+    },
+    {
+      "id": "E9",
+      "start_seconds": 34.0,
+      "end_seconds": 36.0,
+      "modality": "visual",
+      "observation": "Écran orange 'tu perds juste / l'intérêt / petit à petit'.",
+      "asset": null
+    },
+    {
+      "id": "E10",
+      "start_seconds": 40.0,
+      "end_seconds": 41.4,
+      "modality": "visual",
+      "observation": "Écran beige 't'as accompli / rien / dans cette vie', 'rien' serif italique orange.",
+      "asset": null
+    },
+    {
+      "id": "E11",
+      "start_seconds": 43.6,
+      "end_seconds": 45.6,
+      "modality": "visual",
+      "observation": "Écran orange, texte cumulatif : 'la réussite' serif italique, 'excitants' sans extra-gras.",
+      "asset": null
+    },
+    {
+      "id": "E12",
+      "start_seconds": 46.0,
+      "end_seconds": 53.4,
+      "modality": "visual",
+      "observation": "Plans d'illustration vue du dessus et tête dans les mains sur 'moments chiants', 'rien ne marche'.",
+      "asset": null
+    },
+    {
+      "id": "E13",
+      "start_seconds": 53.5,
+      "end_seconds": 64.5,
+      "modality": "visual",
+      "observation": "Écrans 'abandonnent' (orange), 'ils lâchent' (beige), 'une promesse' (orange).",
+      "asset": null
+    },
+    {
+      "id": "E14",
+      "start_seconds": 67.9,
+      "end_seconds": 69.7,
+      "modality": "visual",
+      "observation": "Écran beige : 'pas à moi' et 'pas à d'autres personnes' barrés d'un trait orange, puis 'à toi-même' en serif italique orange.",
+      "asset": null
+    },
+    {
+      "id": "E15",
+      "start_seconds": 70.0,
+      "end_seconds": 77.2,
+      "modality": "visual",
+      "observation": "Carte 'Promets-toi' : trois 'Peu importe…', pastille orange vide puis cochée en synchro avec la voix.",
+      "asset": null
+    },
+    {
+      "id": "E16",
+      "start_seconds": 77.2,
+      "end_seconds": 78.0,
+      "modality": "visual",
+      "observation": "Sortie : carte effacée avec flou, vignette face cam qui glisse au centre et grandit au plein cadre en 0,5 s environ.",
+      "asset": null
+    },
+    {
+      "id": "E17",
+      "start_seconds": 81.5,
+      "end_seconds": 83.6,
+      "modality": "visual",
+      "observation": "Appel à l'action orange : 'abonne-toi' serif italique très grand, phrase petite dessous, texte cumulatif.",
+      "asset": null
+    },
+    {
+      "id": "E18",
+      "start_seconds": 0.0,
+      "end_seconds": 83.6,
+      "modality": "visual",
+      "observation": "Face cam chaude tungstène avec vignettage ; plans d'illustration plus froids, lumière du jour.",
+      "asset": null
+    },
+    {
+      "id": "E19",
+      "start_seconds": 0.0,
+      "end_seconds": 83.6,
+      "modality": "audio",
+      "observation": "Voix au premier plan ; niveau momentané jamais sous environ -29 LUFS dans les respirations ; bandes tonales continues sous 1,7 kHz : nappe musicale probable, non confirmée à l'écoute.",
+      "asset": null
+    }
+  ],
+  "rules": [
+    {
+      "id": "R1",
+      "category": "rhythm",
+      "statement": "Alterner face cam et écran texte plein cadre, un écran toutes les 2 à 5 s de parole.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E9",
+        "E11",
+        "E13"
+      ],
+      "trigger": "Phrase forte ou mot chargé dans la voix.",
+      "parameters": {
+        "observed_text_screen_duration_seconds": [
+          0.9,
+          2.0
+        ],
+        "suggested_face_between_screens_seconds": [
+          2,
+          5
+        ]
+      },
+      "avoid_when": "Phrases de liaison ; deux écrans collés sans gradation.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes / CoDesign",
+        "test_evidence": null,
+        "notes": "Calage sur les horodatages de mots Whisper."
+      }
+    },
+    {
+      "id": "R2",
+      "category": "color",
+      "statement": "Deux fonds selon la charge : beige crème pour les constats et négations, dégradé orange pour l'émotion, les promesses et l'appel à l'action.",
+      "basis": "inferred",
+      "evidence_ids": [
+        "E2",
+        "E3",
+        "E5",
+        "E10",
+        "E11",
+        "E13",
+        "E17"
+      ],
+      "trigger": "Choix du fond de chaque écran texte.",
+      "parameters": {
+        "observed_beige_hex": "#F2EBE6",
+        "observed_orange_gradient_hex": [
+          "#F57221",
+          "#D03F01"
+        ]
+      },
+      "avoid_when": "La DA du client impose d'autres couleurs : remplacer les deux teintes, garder l'alternance.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes / CoDesign",
+        "test_evidence": null,
+        "notes": "Répartition sémantique interprétée, pas annoncée par le créateur."
+      }
+    },
+    {
+      "id": "R3",
+      "category": "text",
+      "statement": "Un seul mot clé par écran, en serif italique (mot qui touche) ou sans-serif extra-gras (mot qui frappe), le reste de la phrase petit autour.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E3",
+        "E4",
+        "E5",
+        "E7",
+        "E10",
+        "E11",
+        "E17"
+      ],
+      "trigger": "Mot porteur de la phrase.",
+      "parameters": {
+        "suggested_keyword_scale_vs_rest": "environ 3 à 4 fois",
+        "fonts_lookalike": [
+          "Inter Tight ou SF Pro Display",
+          "Instrument Serif Italic ou Playfair Display Italic"
+        ]
+      },
+      "avoid_when": "Plus d'un mot clé dans la même phrase.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes / CoDesign",
+        "test_evidence": null,
+        "notes": "Polices exactes non identifiées."
+      }
+    },
+    {
+      "id": "R4",
+      "category": "motion",
+      "statement": "Texte écrit mot à mot au rythme de la voix, chaque mot entre flou puis devient net, accumulation sans remplacement.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E1",
+        "E3",
+        "E11",
+        "E17"
+      ],
+      "trigger": "Chaque mot prononcé pendant un écran texte.",
+      "parameters": {
+        "suggested_word_blur_in_seconds": 0.15
+      },
+      "avoid_when": "Débit très rapide où le flou rendrait illisible.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes",
+        "test_evidence": null,
+        "notes": "Durée du flou estimée, non mesurée image par image."
+      }
+    },
+    {
+      "id": "R5",
+      "category": "motion",
+      "statement": "Énumération de 3 éléments ou plus : carte à cocher à gauche, visage en vignette arrondie à droite, coche orange au mot ; sortie par effacement flou et retour du visage plein cadre en glissant.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E8",
+        "E15",
+        "E16"
+      ],
+      "trigger": "La voix liste plusieurs éléments.",
+      "parameters": {
+        "observed_exit_duration_seconds_approx": 0.5,
+        "proposed_vertical_layout": "carte en haut, visage en bas"
+      },
+      "avoid_when": "Liste de 2 éléments ou moins.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes / CoDesign",
+        "test_evidence": null,
+        "notes": "Recomposition 9:16 à valider."
+      }
+    },
+    {
+      "id": "R6",
+      "category": "text",
+      "statement": "Construction 'pas X, pas Y, mais Z' : barrer X et Y d'un trait coloré, Z en serif italique coloré.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E14"
+      ],
+      "trigger": "Rejet successif dans la phrase.",
+      "parameters": {},
+      "avoid_when": "Pas de structure de rejet dans le script.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes",
+        "test_evidence": null,
+        "notes": "Un seul exemple : accent ponctuel."
+      }
+    },
+    {
+      "id": "R7",
+      "category": "cuts",
+      "statement": "Plans d'illustration sans parole sur les passages qui décrivent la galère, sous-titres conservés.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E6",
+        "E12"
+      ],
+      "trigger": "Description d'un état ou d'une scène de vie.",
+      "parameters": {
+        "observed_broll_duration_seconds": [
+          1.5,
+          4.0
+        ]
+      },
+      "avoid_when": "Pas de plans tournés à part disponibles : ne pas inventer d'images IA.",
+      "implementation": {
+        "status": "candidate",
+        "target": "QualityCut + montage",
+        "test_evidence": null,
+        "notes": "Dépend des rushs fournis."
+      }
+    },
+    {
+      "id": "R8",
+      "category": "text",
+      "statement": "Sous-titres discrets : petits, blancs, en bas, 1 à 4 mots, masqués pendant les écrans texte.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E1"
+      ],
+      "trigger": "Toute la parole face cam.",
+      "parameters": {
+        "observed_vertical_position_ratio": 0.85
+      },
+      "avoid_when": "Format vertical : remonter au-dessus de l'interface TikTok.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Hyperframes / preset",
+        "test_evidence": null,
+        "notes": "Position à recaler en 9:16."
+      }
+    },
+    {
+      "id": "R9",
+      "category": "rhythm",
+      "statement": "Structure en 5 temps : interpellation et hook écrit, miroir du spectateur, schéma d'échec, retournement, engagement, puis appel à l'action plein écran.",
+      "basis": "inferred",
+      "evidence_ids": [
+        "E2",
+        "E8",
+        "E11",
+        "E14",
+        "E17"
+      ],
+      "trigger": "Construction du récit.",
+      "parameters": {},
+      "avoid_when": "Témoignage purement factuel sans retournement.",
+      "implementation": {
+        "status": "candidate",
+        "target": "Script",
+        "test_evidence": null,
+        "notes": "Structure lue sur le texte et l'image."
+      }
+    },
+    {
+      "id": "R10",
+      "category": "color",
+      "statement": "Face cam chaude avec vignettage marqué, illustrations plus froides.",
+      "basis": "observed",
+      "evidence_ids": [
+        "E18"
+      ],
+      "trigger": "Étalonnage.",
+      "parameters": {},
+      "avoid_when": "Rushs client déjà étalonnés selon sa DA.",
+      "implementation": {
+        "status": "candidate",
+        "target": "color-grade",
+        "test_evidence": null,
+        "notes": "Pas de LUT déduite."
+      }
+    },
+    {
+      "id": "R11",
+      "category": "sound",
+      "statement": "Voix en avant avec nappe musicale basse continue probable.",
+      "basis": "inferred",
+      "evidence_ids": [
+        "E19"
+      ],
+      "trigger": "Mixage.",
+      "parameters": {},
+      "avoid_when": "Musique choisie par le client.",
+      "implementation": {
+        "status": "candidate",
+        "target": "real-sfx / mixage",
+        "test_evidence": null,
+        "notes": "Non écouté : à confirmer."
+      }
+    }
+  ],
+  "unknowns": [
+    "Polices exactes",
+    "Musique et effets sonores",
+    "Courbes d'animation exactes",
+    "Logiciel du créateur"
+  ],
+  "adaptation_brief": "Reprendre l'alternance face cam / écrans texte plein cadre sur deux fonds tirés de la DA du client, un mot clé par écran en serif italique ou sans extra-gras, texte écrit mot à mot avec entrée floue, cartes à cocher pour les énumérations et texte barré pour les rejets, plans d'illustration tournés par le client sur les passages de galère, structure en 5 temps vers un appel à l'action plein écran. Recomposer en 9:16 si la cible est Reels ou TikTok. Aucun texte, visage ni musique de la référence n'est repris."
+}

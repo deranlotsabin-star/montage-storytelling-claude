@@ -1,0 +1,265 @@
+{
+ "tenue_fin": 1.6,
+ "textes": {
+  "0": "J’ai",
+  "2": "30 000",
+  "3": "€",
+  "31": "cold call",
+  "33": "ads",
+  "71": "30 000",
+  "72": "€",
+  "85": "100 %",
+  "88": "delivery",
+  "298": "delivery",
+  "125": "0",
+  "126": "€",
+  "133": "8",
+  "231": "ça ?",
+  "470": "t’es",
+  "471": "",
+  "472": "à fond",
+  "582": "c’est"
+ },
+ "ecrans": [
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "2-3",
+     "gras"
+    ],
+    [
+     "4-7",
+     "petit"
+    ],
+    [
+     "8-10",
+     "serif"
+    ]
+   ]
+  },
+  {
+   "fond": "orange",
+   "lignes": [
+    [
+     "71-72",
+     "gras"
+    ],
+    [
+     "73-77",
+     "petit"
+    ],
+    [
+     "78-79",
+     "serif"
+    ]
+   ]
+  },
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "99-101",
+     "petit"
+    ],
+    [
+     "102",
+     "serif"
+    ]
+   ]
+  },
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "122-124",
+     "petit"
+    ],
+    [
+     "125-126",
+     "geant"
+    ]
+   ]
+  },
+  {
+   "fond": "orange",
+   "lignes": [
+    [
+     "133-136",
+     "petit"
+    ],
+    [
+     "137-140",
+     "petit"
+    ],
+    [
+     "141-142",
+     "serif"
+    ]
+   ]
+  },
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "228",
+     "serif"
+    ],
+    [
+     "229-231",
+     "petit"
+    ]
+   ]
+  },
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "262-264",
+     "barre",
+     270
+    ],
+    [
+     "273-276",
+     "petit"
+    ],
+    [
+     "277-278",
+     "petit"
+    ],
+    [
+     "279",
+     "serif"
+    ]
+   ]
+  },
+  {
+   "fond": "orange",
+   "lignes": [
+    [
+     "297-298",
+     "petit"
+    ],
+    [
+     "299-302",
+     "petit"
+    ],
+    [
+     "303",
+     "serif"
+    ],
+    [
+     "304-309",
+     "petit"
+    ]
+   ]
+  },
+  {
+   "fond": "orange",
+   "lignes": [
+    [
+     "380-385",
+     "petit"
+    ],
+    [
+     "386-387",
+     "serif"
+    ],
+    [
+     "388-392",
+     "petit"
+    ]
+   ]
+  },
+  {
+   "fond": "beige",
+   "lignes": [
+    [
+     "514-516",
+     "petit"
+    ],
+    [
+     "517-519",
+     "serif"
+    ],
+    [
+     "520-521",
+     "petit"
+    ]
+   ]
+  },
+  {
+   "fond": "orange",
+   "lignes": [
+    [
+     "549-551",
+     "petit"
+    ],
+    [
+     "552-553",
+     "petit"
+    ],
+    [
+     "554-555",
+     "barre",
+     555
+    ],
+    [
+     "582-585",
+     "petit"
+    ],
+    [
+     "586-587",
+     "petit"
+    ],
+    [
+     "588-589",
+     "serif"
+    ]
+   ]
+  }
+ ],
+ "cartes": [
+  {
+   "titre": "Pour trouver des clients",
+   "de": 27,
+   "a": 36,
+   "items": [
+    [
+     31,
+     "Cold call"
+    ],
+    [
+     32,
+     "Des ads"
+    ],
+    [
+     34,
+     "Beaucoup de volume"
+    ]
+   ]
+  },
+  {
+   "titre": "Ce que j’ai changé",
+   "de": 365,
+   "a": 379,
+   "items": [
+    [
+     372,
+     "Plus rapide"
+    ],
+    [
+     374,
+     "Plus efficace"
+    ],
+    [
+     377,
+     "Recruter pour déléguer"
+    ]
+   ]
+  }
+ ],
+ "muet": [
+  "315"
+ ]
+}
